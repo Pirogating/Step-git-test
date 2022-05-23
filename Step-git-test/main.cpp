@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "master branch";
+	cout << "vitalik's branch";
 	return 1;
 }
